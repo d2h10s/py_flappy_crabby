@@ -7,7 +7,7 @@ Every game image resource in game is imported from # [AndrewJakubowicz](https://
 
 BGM is imported from # [fesliyanstudios](https://www.fesliyanstudios.com/royalty-free-music/downloads-c/8-bit-music/6)
 The source code is my own with Python  
-there is detailed description in source code  
+there is detailed description in source code with korean 
 
 ># How to Play
 
