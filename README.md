@@ -6,8 +6,8 @@
 Every game image resource in game is imported from # [AndrewJakubowicz](https://github.com/AndrewJakubowicz)/**[ggezFlappyCrabby](https://github.com/AndrewJakubowicz/ggezFlappyCrabby)** in rust project
 
 BGM is imported from # [fesliyanstudios](https://www.fesliyanstudios.com/royalty-free-music/downloads-c/8-bit-music/6)
-The source code is my own with Python
-there is detailed description in source code
+The source code is my own with Python  
+there is detailed description in source code  
 
 ># How to Play
 
@@ -18,3 +18,4 @@ there is detailed description in source code
 
 > 3. game is over when you collide with pipe or platform, press any key to restart
 ![game_over_image](https://user-images.githubusercontent.com/54829269/97653819-02924b00-1aa5-11eb-905d-3d06025ce0d8.png)  
+> when game is over, Your computer remember your high score  
